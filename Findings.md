@@ -1,8 +1,8 @@
 # Findings
 ## Group by Year
-We have decided to split the flights by year to see how the eligibility has been changed from 2019 to 2023. Here we have sumed up the passenegrs of each flight by year and devided by the total number of passengers.
+We have decided to split the flights by year to see how the eligibility has been changed from 2019 to 2023. Here we have summed up the passenegrs of each flight by year and divided by the total number of passengers.
 
-Here we can see that the portions of customers not eligibile for any lounge has been increased by 1.57%, as a result of the drop of percentages of all lounge eligibility. The biggest drop happens on Tier 1, where it dropped from 1.80% to 0.96%, nearly by half. And the eligibility for Tier 3 being the smallest change: form 18.25% to 18.18% (-0.07%).
+We can see that the proportion of customers not eligibile for any lounge has been increased by 1.57%, as a result of the drop of percentages of all lounge eligibility. The biggest drop happens on Tier 1, where it dropped from 1.80% to 0.96%, nearly by 50%. And the eligibility for Tier 3 being the smallest change: form 18.25% to 18.18% (-0.38%).
 
 ## Group By Terminal
 We have also decided to split by terminals to see how the eligibilities has changed for each terminals as well.
